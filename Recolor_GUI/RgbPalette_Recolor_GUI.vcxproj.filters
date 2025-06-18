@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="imagewidget.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="mainwindow.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="opengl3dwidget.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="openglwidget.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="paletteviewwidget.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="editviewwidget.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Qt-Color-Widgets\src\QtColorWidgets\bound_color_selector.cpp">
+      <Filter>Color-picker</Filter>
+    </ClCompile>
+    <ClCompile Include="Qt-Color-Widgets\src\QtColorWidgets\color_2d_slider.cpp">
+      <Filter>Color-picker</Filter>
+    </ClCompile>
+    <ClCompile Include="Qt-Color-Widgets\src\QtColorWidgets\color_delegate.cpp">
+      <Filter>Color-picker</Filter>
+    </ClCompile>
+    <ClCompile Include="Qt-Color-Widgets\src\QtColorWidgets\color_dialog.cpp">
+      <Filter>Color-picker</Filter>
+    </ClCompile>
+    <ClCompile Include="Qt-Color-Widgets\src\QtColorWidgets\color_line_edit.cpp">
+      <Filter>Color-picker</Filter>
+    </ClCompile>
+    <ClCompile Include="Qt-Color-Widgets\src\QtColorWidgets\color_list_widget.cpp">
+      <Filter>Color-picker</Filter>
+    </ClCompile>
+    <ClCompile Include="Qt-Color-Widgets\src\QtColorWidgets\color_names.cpp">
+      <Filter>Color-picker</Filter>
+    </ClCompile>
+    <ClCompile Include="Qt-Color-Widgets\src\QtColorWidgets\color_palette.cpp">
+      <Filter>Color-picker</Filter>
+    </ClCompile>
+    <ClCompile Include="Qt-Color-Widgets\src\QtColorWidgets\color_palette_model.cpp">
+      <Filter>Color-picker</Filter>
+    </ClCompile>
+    <ClCompile Include="Qt-Color-Widgets\src\QtColorWidgets\color_palette_widget.cpp">
+      <Filter>Color-picker</Filter>
+    </ClCompile>
+    <ClCompile Include="Qt-Color-Widgets\src\QtColorWidgets\color_preview.cpp">
+      <Filter>Color-picker</Filter>
+    </ClCompile>
+    <ClCompile Include="Qt-Color-Widgets\src\QtColorWidgets\color_selector.cpp">
+      <Filter>Color-picker</Filter>
+    </ClCompile>
+    <ClCompile Include="Qt-Color-Widgets\src\QtColorWidgets\color_utils.cpp">
+      <Filter>Color-picker</Filter>
+    </ClCompile>
+    <ClCompile Include="Qt-Color-Widgets\src\QtColorWidgets\color_wheel.cpp">
+      <Filter>Color-picker</Filter>
+    </ClCompile>
+    <ClCompile Include="Qt-Color-Widgets\src\QtColorWidgets\gradient_editor.cpp">
+      <Filter>Color-picker</Filter>
+    </ClCompile>
+    <ClCompile Include="Qt-Color-Widgets\src\QtColorWidgets\gradient_list_model.cpp">
+      <Filter>Color-picker</Filter>
+    </ClCompile>
+    <ClCompile Include="Qt-Color-Widgets\src\QtColorWidgets\gradient_slider.cpp">
+      <Filter>Color-picker</Filter>
+    </ClCompile>
+    <ClCompile Include="Qt-Color-Widgets\src\QtColorWidgets\harmony_color_wheel.cpp">
+      <Filter>Color-picker</Filter>
+    </ClCompile>
+    <ClCompile Include="Qt-Color-Widgets\src\QtColorWidgets\hue_slider.cpp">
+      <Filter>Color-picker</Filter>
+    </ClCompile>
+    <ClCompile Include="Qt-Color-Widgets\src\QtColorWidgets\abstract_widget_list.cpp">
+      <Filter>Color-picker</Filter>
+    </ClCompile>
+    <ClCompile Include="Qt-Color-Widgets\src\QtColorWidgets\swatch.cpp">
+      <Filter>Color-picker</Filter>
+    </ClCompile>
+    <ClCompile Include="Data.cpp">
+      <Filter>Algorithm</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="opengl3dwidget.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="openglwidget.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Qt-Color-Widgets\include\QtColorWidgets\color_names.hpp">
+      <Filter>Color-picker</Filter>
+    </ClInclude>
+    <ClInclude Include="Qt-Color-Widgets\include\QtColorWidgets\color_utils.hpp">
+      <Filter>Color-picker</Filter>
+    </ClInclude>
+    <ClInclude Include="Qt-Color-Widgets\include\QtColorWidgets\color_wheel_private.hpp">
+      <Filter>Color-picker</Filter>
+    </ClInclude>
+    <ClInclude Include="Qt-Color-Widgets\include\QtColorWidgets\colorwidgets_global.hpp">
+      <Filter>Color-picker</Filter>
+    </ClInclude>
+    <ClInclude Include="Qt-Color-Widgets\include\QtColorWidgets\gradient_helper.hpp">
+      <Filter>Color-picker</Filter>
+    </ClInclude>
+    <ClInclude Include="Utility.h">
+      <Filter>Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="Algorithm\Kmeans.h">
+      <Filter>Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="Algorithm\PaletteBasedRecoloring.h">
+      <Filter>Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="Algorithm\PaletteSolver.h">
+      <Filter>Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="Algorithm\SuperpixSeg.h">
+      <Filter>Algorithm</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="imagewidget.h">
+      <Filter>UI</Filter>
+    </QtMoc>
+    <QtMoc Include="mainwindow.h">
+      <Filter>UI</Filter>
+    </QtMoc>
+    <QtMoc Include="paletteviewwidget.h">
+      <Filter>UI</Filter>
+    </QtMoc>
+    <QtMoc Include="editviewwidget.h">
+      <Filter>UI</Filter>
+    </QtMoc>
+    <QtMoc Include="Qt-Color-Widgets\include\QtColorWidgets\abstract_widget_list.hpp">
+      <Filter>Color-picker</Filter>
+    </QtMoc>
+    <QtMoc Include="Qt-Color-Widgets\include\QtColorWidgets\bound_color_selector.hpp">
+      <Filter>Color-picker</Filter>
+    </QtMoc>
+    <QtMoc Include="Qt-Color-Widgets\include\QtColorWidgets\color_2d_slider.hpp">
+      <Filter>Color-picker</Filter>
+    </QtMoc>
+    <QtMoc Include="Qt-Color-Widgets\include\QtColorWidgets\color_delegate.hpp">
+      <Filter>Color-picker</Filter>
+    </QtMoc>
+    <QtMoc Include="Qt-Color-Widgets\include\QtColorWidgets\color_dialog.hpp">
+      <Filter>Color-picker</Filter>
+    </QtMoc>
+    <QtMoc Include="Qt-Color-Widgets\include\QtColorWidgets\color_line_edit.hpp">
+      <Filter>Color-picker</Filter>
+    </QtMoc>
+    <QtMoc Include="Qt-Color-Widgets\include\QtColorWidgets\color_list_widget.hpp">
+      <Filter>Color-picker</Filter>
+    </QtMoc>
+    <QtMoc Include="Qt-Color-Widgets\include\QtColorWidgets\color_palette.hpp">
+      <Filter>Color-picker</Filter>
+    </QtMoc>
+    <QtMoc Include="Qt-Color-Widgets\include\QtColorWidgets\color_palette_model.hpp">
+      <Filter>Color-picker</Filter>
+    </QtMoc>
+    <QtMoc Include="Qt-Color-Widgets\include\QtColorWidgets\color_palette_widget.hpp">
+      <Filter>Color-picker</Filter>
+    </QtMoc>
+    <QtMoc Include="Qt-Color-Widgets\include\QtColorWidgets\color_preview.hpp">
+      <Filter>Color-picker</Filter>
+    </QtMoc>
+    <QtMoc Include="Qt-Color-Widgets\include\QtColorWidgets\color_selector.hpp">
+      <Filter>Color-picker</Filter>
+    </QtMoc>
+    <QtMoc Include="Qt-Color-Widgets\include\QtColorWidgets\color_wheel.hpp">
+      <Filter>Color-picker</Filter>
+    </QtMoc>
+    <QtMoc Include="Qt-Color-Widgets\include\QtColorWidgets\gradient_delegate.hpp">
+      <Filter>Color-picker</Filter>
+    </QtMoc>
+    <QtMoc Include="Qt-Color-Widgets\include\QtColorWidgets\gradient_editor.hpp">
+      <Filter>Color-picker</Filter>
+    </QtMoc>
+    <QtMoc Include="Qt-Color-Widgets\include\QtColorWidgets\gradient_list_model.hpp">
+      <Filter>Color-picker</Filter>
+    </QtMoc>
+    <QtMoc Include="Qt-Color-Widgets\include\QtColorWidgets\gradient_slider.hpp">
+      <Filter>Color-picker</Filter>
+    </QtMoc>
+    <QtMoc Include="Qt-Color-Widgets\include\QtColorWidgets\harmony_color_wheel.hpp">
+      <Filter>Color-picker</Filter>
+    </QtMoc>
+    <QtMoc Include="Qt-Color-Widgets\include\QtColorWidgets\hue_slider.hpp">
+      <Filter>Color-picker</Filter>
+    </QtMoc>
+    <QtMoc Include="Qt-Color-Widgets\include\QtColorWidgets\swatch.hpp">
+      <Filter>Color-picker</Filter>
+    </QtMoc>
+    <QtMoc Include="Data.h">
+      <Filter>Algorithm</Filter>
+    </QtMoc>
+  </ItemGroup>
+  <ItemGroup>
+    <QtUic Include="Qt-Color-Widgets\src\QtColorWidgets\color_dialog.ui">
+      <Filter>Color-picker</Filter>
+    </QtUic>
+    <QtUic Include="Qt-Color-Widgets\src\QtColorWidgets\color_palette_widget.ui">
+      <Filter>Color-picker</Filter>
+    </QtUic>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Algorithm">
+      <UniqueIdentifier>{778dd617-646e-42c2-8cf6-8a87617fa358}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI">
+      <UniqueIdentifier>{da4d4d34-59f5-4383-8ca2-9cc010ac9671}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Color-picker">
+      <UniqueIdentifier>{89d4383a-b763-4c14-a1f7-63bf1102d971}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Qt-Color-Widgets\resources\QtColorWidgets\alphaback.png">
+      <Filter>Color-picker</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <QtRcc Include="Qt-Color-Widgets\resources\QtColorWidgets\color_widgets.qrc">
+      <Filter>Color-picker</Filter>
+    </QtRcc>
+  </ItemGroup>
+</Project>
